@@ -1,0 +1,17 @@
+.header {
+  position: relative;
+  background-image: url(../../../images/header.jpg);
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 200px;
+  color: transparent;
+  margin-top: 20px;
+}
+.logo {
+  position: absolute;
+  width: 350px;
+  right: 0;
+}

@@ -1,0 +1,13 @@
+[{"id":1,"maker":"Lexus","model":"GS","year":2009,"country":"Poland","price":"€79103,74","car_vin":"5UXFB53586L473398"},
+{"id":2,"maker":"Toyota","model":"Tacoma","year":2000,"country":"Indonesia","price":"€11156,78","car_vin":"WA1YD64B12N759424"},
+{"id":3,"maker":"Pontiac","model":"Sunbird","year":1994,"country":"Indonesia","price":"€117059,45","car_vin":"WAUFFAFL8BN053550"},
+{"id":4,"maker":"Mitsubishi","model":"Pajero","year":1987,"country":"Colombia","price":"€41307,82","car_vin":"4T1BD1EB4FU083703"},
+{"id":5,"maker":"Pontiac","model":"Trans Sport","year":1998,"country":"Mali","price":"€39981,40","car_vin":"SALAB2D43CA136654"},
+{"id":6,"maker":"Chevrolet","model":"Corvette","year":1995,"country":"Peru","price":"€27230,79","car_vin":"1G6YV36A875433880"},
+{"id":7,"maker":"Infiniti","model":"QX56","year":2012,"country":"China","price":"€135501,32","car_vin":"1N6BF0KL4FN466473"},
+{"id":8,"maker":"Audi","model":"A3","year":2007,"country":"France","price":"€76292,03","car_vin":"WBA3B1C57DF662307"},
+{"id":9,"maker":"Lexus","model":"RX","year":2001,"country":"Cuba","price":"€113455,64","car_vin":"1GT01ZCG1EF580678"},
+{"id":10,"maker":"Mitsubishi","model":"Sigma","year":1990,"country":"China","price":"€95658,88","car_vin":"2D4RN3D18AR096323"},
+{"id":11,"maker":"Bentley","model":"Continental GTC","year":2008,"country":"Philippines","price":"€111647,32","car_vin":"YV4902NC2F1617082"},
+{"id":12,"maker":"Volvo","model":"V50","year":2009,"country":"France","price":"€114239,80","car_vin":"SCFBF04B38G973221"}
+]

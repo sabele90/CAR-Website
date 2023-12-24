@@ -1,0 +1,16 @@
+#root {
+  margin: 0 auto;
+  max-width: 1300px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  z-index: -1;
+  background-image: url(../images/back2.jpg);
+  background-repeat: round;
+}
